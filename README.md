@@ -1,5 +1,4 @@
-#Lab2 : Code Source management
-
+Lab2 : Code Source management
 Étape 1 : Initialiser Git dans mlops-lab-01
 <img width="945" height="536" alt="image" src="https://github.com/user-attachments/assets/1db433a5-8112-4406-8789-39448d5e6fd3" />
 Étape 2 : Premier commit du projet MLOps
