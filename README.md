@@ -1,11 +1,19 @@
+#Lab2 : Code Source management
+
+Étape 1 : Initialiser Git dans mlops-lab-01
 <img width="945" height="536" alt="image" src="https://github.com/user-attachments/assets/1db433a5-8112-4406-8789-39448d5e6fd3" />
+Étape 2 : Premier commit du projet MLOps
 <img width="792" height="464" alt="image" src="https://github.com/user-attachments/assets/84e4568d-4754-44ea-a8ce-7db4e0b40f89" />
+Étape 3 : Observer une modification avec git diff
 <img width="945" height="98" alt="image" src="https://github.com/user-attachments/assets/be0ca6b2-247e-47ff-bb06-35020a5a4598" />
 <img width="945" height="779" alt="image" src="https://github.com/user-attachments/assets/440a54c6-da77-4feb-b7a0-f1a41f7ec507" />
+Étape 4 : Créer une branche de fonctionnalité liée au lab
 <img width="945" height="88" alt="image" src="https://github.com/user-attachments/assets/3f4cb0e4-fc1c-4b3d-835b-797457544d00" />
 <img width="589" height="53" alt="image" src="https://github.com/user-attachments/assets/36e2e304-aac2-46c7-8608-32bb7ea28c05" />
 <img width="945" height="331" alt="image" src="https://github.com/user-attachments/assets/5bad8a58-9510-47de-96fb-a8bf1d65915f" />
+Étape 5 : Fusionner la branche feature dans la branche principale
 <img width="945" height="338" alt="image" src="https://github.com/user-attachments/assets/09d94f83-bd1e-4515-b469-a2fdd1f3d50a" />
+Étape 6 : Créer un conflit de merge sur src/train.py
 <img width="945" height="84" alt="image" src="https://github.com/user-attachments/assets/3a315297-27db-4f20-9eba-20d18aa5e758" />
 <img width="945" height="84" alt="image" src="https://github.com/user-attachments/assets/29bc2157-f42d-45b1-ae3a-ea9adea87765" />
 <img width="945" height="132" alt="image" src="https://github.com/user-attachments/assets/f0a08132-cb9e-46c1-bd2b-00f708a4aff8" />
@@ -14,18 +22,22 @@
 <img width="945" height="260" alt="image" src="https://github.com/user-attachments/assets/2b501317-c793-4e13-9c07-d7fe993a511e" />
 <img width="945" height="66" alt="image" src="https://github.com/user-attachments/assets/8cff7cb4-29d0-49b8-96ba-774e96933431" />
 <img width="945" height="166" alt="image" src="https://github.com/user-attachments/assets/1ce87806-4a03-436e-9199-9f49f80b15f6" />
+Étape 7 : Utiliser git stash dans le contexte du lab
 <img width="945" height="76" alt="image" src="https://github.com/user-attachments/assets/d9f56f57-e520-4d60-ae85-9ff879c6437d" />
 <img width="945" height="187" alt="image" src="https://github.com/user-attachments/assets/3dc1212a-c48b-4e53-8464-b42bd4d81dbf" />
 <img width="945" height="425" alt="image" src="https://github.com/user-attachments/assets/8cd5a2e8-0cb9-4356-bccc-14382f126be0" />
 <img width="945" height="291" alt="image" src="https://github.com/user-attachments/assets/a9636621-7240-4f09-afc4-192eb488625d" />
+Étape 8 : Tester git reset sur un fichier d’expérimentation
 <img width="945" height="163" alt="image" src="https://github.com/user-attachments/assets/0480cefc-ad83-4f5d-8fbd-fefa1f2c7a6e" />
 <img width="945" height="129" alt="image" src="https://github.com/user-attachments/assets/c889e6af-25d3-466c-8e04-545cffb18fdf" />
 <img width="945" height="99" alt="image" src="https://github.com/user-attachments/assets/bf707d6d-faed-4100-aca9-b5601b281f2c" />
 <img width="945" height="167" alt="image" src="https://github.com/user-attachments/assets/7942cc5d-d33b-473f-b1f9-6f3de90472ce" />
 <img width="945" height="109" alt="image" src="https://github.com/user-attachments/assets/d9941efd-596a-47d0-856e-004565049586" />
+Étape 9 : Annuler un commit avec git revert
 <img width="945" height="334" alt="image" src="https://github.com/user-attachments/assets/f410e2d1-2042-4f6e-9b1b-a30f5b993abc" />
 <img width="945" height="95" alt="image" src="https://github.com/user-attachments/assets/3157d643-a96a-4ef9-940b-cc4a5c0394c9" />
 <img width="945" height="642" alt="image" src="https://github.com/user-attachments/assets/3541e968-9d96-4299-8fe3-b08f2edff60a" />
+Étape 10 : Rebase d’une branche feature sur la branche principale
 <img width="945" height="28" alt="image" src="https://github.com/user-attachments/assets/7a15aa5d-227d-4656-8f1f-e4388b2db10f" />
 <img width="931" height="70" alt="image" src="https://github.com/user-attachments/assets/1d46434c-27d9-4296-9b59-1ad7f7f3ad6d" />
 <img width="945" height="32" alt="image" src="https://github.com/user-attachments/assets/847661d4-5dc3-444e-886d-a6ad8036882a" />
